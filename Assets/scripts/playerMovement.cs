@@ -5,6 +5,7 @@ using UnityEngine;
 public class playerMovement : MonoBehaviour
 {
     private bool isMouseIn;
+    
     // Start is called before the first frame update
     void Start()
     {
